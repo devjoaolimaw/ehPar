@@ -1,0 +1,14 @@
+c:\dev\Par\bin\Debug\net7.0\Par.exe
+C:\dev\Par\bin\Debug\net7.0\Par.deps.json
+C:\dev\Par\bin\Debug\net7.0\Par.runtimeconfig.json
+c:\dev\Par\bin\Debug\net7.0\Par.dll
+c:\dev\Par\bin\Debug\net7.0\Par.pdb
+c:\dev\Par\obj\Debug\net7.0\Par.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Par\obj\Debug\net7.0\Par.AssemblyInfoInputs.cache
+c:\dev\Par\obj\Debug\net7.0\Par.AssemblyInfo.cs
+c:\dev\Par\obj\Debug\net7.0\Par.csproj.CoreCompileInputs.cache
+c:\dev\Par\obj\Debug\net7.0\Par.dll
+c:\dev\Par\obj\Debug\net7.0\refint\Par.dll
+c:\dev\Par\obj\Debug\net7.0\Par.pdb
+C:\dev\Par\obj\Debug\net7.0\Par.genruntimeconfig.cache
+C:\dev\Par\obj\Debug\net7.0\ref\Par.dll
